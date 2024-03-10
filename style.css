@@ -395,11 +395,13 @@ transform: rotate(-1deg);
     margin-top: .2vw;
 }
 
-.page4 i{
+.page4 a{
     font-size: 2vw;
     text-align: center;
     margin-right: 5px;
     color: black;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 @keyframes scroller {
